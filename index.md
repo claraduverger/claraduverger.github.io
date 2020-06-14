@@ -7,6 +7,7 @@ My *research interests* concern:
 - statistical analysis of background seismicity,
 - declustering and modelling of earthquake catalogs,
 - relocation of seismic swarms to image tectonical structures.
+
 ---
 
 ## Communications
@@ -40,15 +41,15 @@ Keller, M., Mayor, J., **Duverger, C.**, Senfaute, G. (September **2019**). Baye
 
 ### Posters
 
-**Duverger, C.**, Vallage, A., Bollinger, L. (**April 2019**). Uncertainties on fault parameters and seismotectonic source zones for site-specific PSHA in southeastern France. **SSA** Annual meeting.
+**Duverger, C.**, Vallage, A., Bollinger, L. (April **2019**). Uncertainties on fault parameters and seismotectonic source zones for site-specific PSHA in southeastern France. **SSA** Annual meeting.
 
-**Duverger, C.**, Bernard, P., Colombelli, S., Zollo, A. (**April 2019**). Rupture initiation of small earthquakes in the Corinth Rift, Greece. **SSA** Annual meeting.
+**Duverger, C.**, Bernard, P., Colombelli, S., Zollo, A. (April **2019**). Rupture initiation of small earthquakes in the Corinth Rift, Greece. **SSA** Annual meeting.
 
 **Duverger, C.**, Godano, M., Bernard, P., & LYON-CAEN, H. (September **2014**). Analysis of earthquake multiplets in the western Corinth rift (Greece) during the 2003-2004 seismic crisis. **ESC** 34th General Assembly.
 
 ### International Conferences
 
-- EGU 2020, General Assembly - *Online*
+- EGU 2020, General assembly - *Online*
 - SSA 2019, Annual meeting - Seattle, USA
 - ESC 2018, 36th General assembly - Valleta, Malta
 - AGU 2016, Fall meeting - San Francisco, USA
@@ -57,10 +58,11 @@ Keller, M., Mayor, J., **Duverger, C.**, Senfaute, G. (September **2019**). Baye
 
 ### International Workshops or Schools
 
-- Workshop "PSHA testing", Symposium Project Sigma-2, (2019), Saclay, France
-- Workshop "Best PSHANI", Project SINAPS@, (May 2018), Cadarache, France
-- International Training Course, Project SINAPS@, (April 2018), Porquerolles, France
-- Workshop "Earthquakes: nucleation, triggering rupture and aseismic processes" (October 2015) Cargèse, France
+- Workshop "PSHA testing", Symposium Project Sigma-2 (December 2019) - Saclay, France
+- Workshop "Best PSHANI", Project SINAPS@ (May 2018) - Cadarache, France
+- International Training Course, Project SINAPS@ (April 2018) - Porquerolles, France
+- Workshop "Earthquakes: nucleation, triggering rupture and aseismic processes" (October 2015) - Cargèse, France
+
 ---
 
 ## Projects
