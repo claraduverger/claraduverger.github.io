@@ -83,3 +83,28 @@ The OpenQuake Integrated Risk Modelling Toolkit (IRMT) is a QGis plug-in is deve
 
 Training delivered by PRACE:
 [Python in High Performance Computing](https://github.com/claraduverger/hpc-python)
+
+
+```mermaid
+classDiagram
+      Animal <|-- Duck
+      Animal <|-- Fish
+      Animal <|-- Zebra
+      Animal : +int age
+      Animal : +String gender
+      Animal: +isMammal()
+      Animal: +mate()
+      class Duck{
+          +String beakColor
+          +swim()
+          +quack()
+      }
+      class Fish{
+          -int sizeInFeet
+          -canEat()
+      }
+      class Zebra{
+          +bool is_wild
+          +run()
+      }
+```
