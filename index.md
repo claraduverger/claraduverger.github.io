@@ -63,48 +63,8 @@ Keller, M., Mayor, J., **Duverger, C.**, Senfaute, G. (September **2019**). Baye
 - International Training Course, Project SINAPS@ (April 2018) - Porquerolles, France
 - Workshop "Earthquakes: nucleation, triggering rupture and aseismic processes" (October 2015) - Cargèse, France
 
----
+### National Conferences
 
-## Projects
-
-### OpenQuake
-
-#### OpenQuake Engine
-
-Some helps for OpenQuake beginners:
-[Openquake help page](https://github.com/claraduverger/openquake-help)
-
-#### OpenQuake and QGis
-
-The OpenQuake Integrated Risk Modelling Toolkit (IRMT) is a QGis plug-in is developed by the Global Earthquake Model (GEM) Foundation.
-[OpenQuake IRMT help page](https://github.com/claraduverger/oq-irmt-help)
-
-### Python HPC
-
-Training delivered by PRACE:
-[Python in High Performance Computing](https://github.com/claraduverger/hpc-python)
-
-
-```mermaid
-classDiagram
-      Animal <|-- Duck
-      Animal <|-- Fish
-      Animal <|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
-      }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
-      }
-      class Zebra{
-          +bool is_wild
-          +run()
-      }
-```
+- RESIF, 4e Rencontres Scientifiques et Techniques (November 2019)- Biarritz, France
+- AFPS, 10e Colloque National (September 2019) - Strasbourg, France
+- RAP, 9e Biennale du RAP (November 2018) - Lourdes, France
