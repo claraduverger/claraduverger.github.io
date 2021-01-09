@@ -20,7 +20,8 @@ My *research interests* concern:
 
 
 ### Peer Review Activity
-- for Journal of Geophysical Research - Solid Earth
+- for Journal of Geophysical Research - Solid Earth (JGR)
+- for Geophysical Journal International (GJI)
 
 ### PhD Thesis
 
