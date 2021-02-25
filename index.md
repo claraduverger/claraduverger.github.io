@@ -14,6 +14,8 @@ My *research interests* concern:
 
 ### Publications
 
+**Duverger, C.**, Mazet-Roux, G., Bollinger, L., Guilhem Trilla, A., Vallage, A., Hernandez, B., Cansi, Y. (**2021**). A decade of seismicity in metropolitan France (2010-2019): the CEA/LDG methodologies and obervations. *BSGF - Earth Science Bulletin*. In press.
+
 **Duverger, C.**, Lambotte, S., Bernard, P., Lyon-Caen, H., Deschamps, A., & Nercessian, A. (**2018**). Dynamics of microseismicity and its relationship with the active structures in the western Corinth Rift (Greece). *Geophysical Journal International, 215*(1), 196-221. [Link](https://academic.oup.com/gji/article-abstract/215/1/196/5046732)
 
 **Duverger, C.**, Godano, M., Bernard, P., Lyon‐Caen, H., & Lambotte, S. (**2015**). The 2003–2004 seismic swarm in the western Corinth rift: Evidence for a multiscale pore pressure diffusion process along a permeable fault system. *Geophysical Research Letters, 42*(18), 7374-7382. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL065298)
