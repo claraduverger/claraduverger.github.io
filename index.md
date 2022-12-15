@@ -40,23 +40,23 @@ Kaviris, G., Elias, P., Kapetanidis, V., Serpetsidaki, A., Karakonstantis, A., P
 
 ### Talks
 
-Vallage, A., Bollinger, L., Cano, Y., Champenois, J., **Duverger, C.**, Hernandez, B., Herry, P., Le Pichon, A., Listowski, C., Mazet-Roux, G., Menager, M., Merrer, S., Pinel-Puyssegur, B., Rusch, R., Sebe, O., Vergoz, J., Guilhem Trilla, A. (May **2020**). Full characterization of the ML 5.4 2019/11/11 Le Teil earthquake in France based on a multi-technology approach. **EGU** General Assembly.
-
-Keller, M., Mayor, J., **Duverger, C.**, Senfaute, G. (September **2019**). Bayesian model comparison applied to probabilistic seismic hazard assessment. **ENBIS**, 19th Annual Conference.
-
 **Duverger, C.**, Bernard, P., Lambotte, S., Godano, M., Lyon-Caen, H., Deschamps, A., Nercessian, A. (September **2018**). Dynamics of micro-earthquake multiplets linked to active faults in the western Corinth Rift, Greece. **ESC** 36th General Assembly.
 
 **Duverger, C.**, Bernard, P., Lambotte, S., Godano, M., Lyon-Caen, H. (December **2016**). Triggering Processes of Microearthquake Swarms in the western Corinth Rift, Greece. **AGU** Fall Meeting.
 
 **Duverger, C.**, Bernard, P., Lyon-Caen, H., Deschamps, A., Lambotte, S., Godano, M., Nercessian, A. (June **2016**). Earthquake multiplets and dynamic triggering in the western Corinth Rift, Greece. **CMG**, 31st IUGG Conference.
 
+
 ### Posters
+
+**Duverger, C.**, Keller, M., Senfaute, G. (April **2022**). Phebus: A Full Bayesian Workflow to Estimate Earthquake Recurrence Parameters and Uncertainties for Seismic Hazard Models. **SSA** Annual meeting.
 
 **Duverger, C.**, Vallage, A., Bollinger, L. (April **2019**). Uncertainties on fault parameters and seismotectonic source zones for site-specific PSHA in southeastern France. **SSA** Annual meeting.
 
 **Duverger, C.**, Bernard, P., Colombelli, S., Zollo, A. (April **2019**). Rupture initiation of small earthquakes in the Corinth Rift, Greece. **SSA** Annual meeting.
 
-**Duverger, C.**, Godano, M., Bernard, P., & LYON-CAEN, H. (September **2014**). Analysis of earthquake multiplets in the western Corinth rift (Greece) during the 2003-2004 seismic crisis. **ESC** 34th General Assembly.
+**Duverger, C.**, Godano, M., Bernard, P., & Lyon-Caen, H. (September **2014**). Analysis of earthquake multiplets in the western Corinth rift (Greece) during the 2003-2004 seismic crisis. **ESC** 34th General Assembly.
+
 
 ### International Conferences
 
@@ -69,6 +69,8 @@ Keller, M., Mayor, J., **Duverger, C.**, Senfaute, G. (September **2019**). Baye
 
 ### International Workshops or Schools
 
+- Closing Symposium Sigma-2 (May 2022) - Avignon, France
+- URBASIS Spring school (May 2022) - Autrans, France
 - Workshop "Active tectonics and dating", Project Sigma-2 and RESIF (September 2021) - Praz-sur-Arly, France
 - Workshop "PSHA testing", Symposium Project Sigma-2 (December 2019) - Saclay, France
 - Workshop "Best PSHANI", Project SINAPS@ (May 2018) - Cadarache, France
