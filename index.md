@@ -3,10 +3,11 @@
 Welcome to my website! I am currently a **Seismologist** / **Seismic hazard engineer** working in France.
 My *research interests* concern:
 
-- seismic hazard computation,
-- statistical analysis of background seismicity,
-- declustering and modelling of earthquake catalogs,
-- relocation of seismic swarms to image tectonical structures.
+- seismic hazard modelling and computation,
+- statistical analysis of seismicity and source parameters (magnitude, depth, directivity, etc.),
+- earthquake catalogs (relocation, declustering, etc.),
+- spatio-temporal analysis of microseismicity to image tectonical structures,
+- swarm behavior and non-tectonic driving-forces.
 
 ---
 
@@ -24,7 +25,7 @@ Kaviris, G., Elias, P., Kapetanidis, V., Serpetsidaki, A., Karakonstantis, A., P
 
 Laporte, M., Bollinger, L., Lyon-Caen, H., Hoste-Colomer, R., **Duverger, C.**, Letort, J., et al. (**2021**). Seismicity in far western Nepal reveals flats and ramps along the Main Himalayan Thrust. *Geophysical Journal International, 226*(3), 1747-1763. [Link](https://academic.oup.com/gji/article-abstract/226/3/1747/6240174?)
 
-Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Hernandez, B., et al. (**2021**). Multitechnology characterization of an unusual surface rupturing intraplate earthquake: the ML 5.4 2019 Le Teil event in France. Geophysical Journal International, 226(2), 803-813. [Link][https://academic.oup.com/gji/article-abstract/226/2/803/6223486]
+Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Hernandez, B., et al. (**2021**). Multitechnology characterization of an unusual surface rupturing intraplate earthquake: the ML 5.4 2019 Le Teil event in France. Geophysical Journal International, 226(2), 803-813. [Link](https://academic.oup.com/gji/article-abstract/226/2/803/6223486)
 
 **Duverger, C.**, Lambotte, S., Bernard, P., Lyon-Caen, H., Deschamps, A., & Nercessian, A. (**2018**). Dynamics of microseismicity and its relationship with the active structures in the western Corinth Rift (Greece). *Geophysical Journal International, 215*(1), 196-221. [Link](https://academic.oup.com/gji/article-abstract/215/1/196/5046732)
 
