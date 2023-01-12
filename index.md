@@ -14,15 +14,17 @@ My *research interests* concern:
 
 ### Publications
 
+Baques, M., De Barros, L., **Duverger, C.**, Jomard, H., Godano, M., Courboulex, F., & Larroque, C. (**2021**). Seismic activity in the Ubaye Region (French Alps): a specific behaviour highlighted by mainshocks and swarm sequences. *Comptes Rendus. Géoscience, 353*(S1), 1-25. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A11_0/)
+
 Bollinger, L., Le Dortz, K., **Duverger, C.**, Vallage, A., Marin, S., & Leroy, Y. M. (**2021**). Seismic swarms in Tricastin, lower Rhône Valley (France): review of historical and instrumental seismicity and models. *Comptes Rendus. Géoscience, 353*(S1), 1-22. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A22_0/)
 
 **Duverger, C.**, Mazet-Roux, G., Bollinger, L., Guilhem Trilla, A., Vallage, A., Hernandez, B., & Cansi, Y. (**2021**). A decade of seismicity in metropolitan France (2010-2019): the CEA/LDG methodologies and obervations. *BSGF - Earth Science Bulletin, 192*(1), 25. [Link](https://pubs.geoscienceworld.org/sgf/bsgf/article/192/1/25/596562/A-decade-of-seismicity-in-metropolitan-France-2010)
 
+Kaviris, G., Elias, P., Kapetanidis, V., Serpetsidaki, A., Karakonstantis, A., Plicka, V., ..., **Duverger, C.**, et al. (**2021**). The Western Gulf of Corinth (Greece) 2020–2021 seismic crisis and cascading events: First results from the Corinth Rift Laboratory network. *The Seismic Record, 1*(2), 85-95. [Link](https://pubs.geoscienceworld.org/ssa/tsr/article/1/2/85/606211/The-Western-Gulf-of-Corinth-Greece-2020-2021)
+
 Laporte, M., Bollinger, L., Lyon-Caen, H., Hoste-Colomer, R., **Duverger, C.**, Letort, J., et al. (**2021**). Seismicity in far western Nepal reveals flats and ramps along the Main Himalayan Thrust. *Geophysical Journal International, 226*(3), 1747-1763. [Link](https://academic.oup.com/gji/article-abstract/226/3/1747/6240174?)
 
-Baques, M., De Barros, L., **Duverger, C.**, Jomard, H., Godano, M., Courboulex, F., & Larroque, C. (**2021**). Seismic activity in the Ubaye Region (French Alps): a specific behaviour highlighted by mainshocks and swarm sequences. *Comptes Rendus. Géoscience, 353*(S1), 1-25. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A11_0/)
-
-Kaviris, G., Elias, P., Kapetanidis, V., Serpetsidaki, A., Karakonstantis, A., Plicka, V., ..., **Duverger, C.**, et al. (**2021**). The Western Gulf of Corinth (Greece) 2020–2021 seismic crisis and cascading events: First results from the Corinth Rift Laboratory network. *The Seismic Record, 1*(2), 85-95. [Link](https://pubs.geoscienceworld.org/ssa/tsr/article/1/2/85/606211/The-Western-Gulf-of-Corinth-Greece-2020-2021)
+Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Hernandez, B., et al. (**2021**). Multitechnology characterization of an unusual surface rupturing intraplate earthquake: the ML 5.4 2019 Le Teil event in France. Geophysical Journal International, 226(2), 803-813. [Link][https://academic.oup.com/gji/article-abstract/226/2/803/6223486]
 
 **Duverger, C.**, Lambotte, S., Bernard, P., Lyon-Caen, H., Deschamps, A., & Nercessian, A. (**2018**). Dynamics of microseismicity and its relationship with the active structures in the western Corinth Rift (Greece). *Geophysical Journal International, 215*(1), 196-221. [Link](https://academic.oup.com/gji/article-abstract/215/1/196/5046732)
 
