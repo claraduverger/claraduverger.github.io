@@ -15,6 +15,8 @@ My *research interests* concern:
 
 ### Publications
 
+Colledge, M., Aubry, J., Chanard, K., Pétrélis, F., **Duverger, C.**, Bollinger, L., & Schubnel, A. (**2023**). Susceptibility of microseismic triggering to small sinusoidal stress perturbations at the laboratory scale. Journal of Geophysical Research: Solid Earth, 128. [Link](https://doi.org/10.1029/2022JB025583) 
+
 Baques, M., De Barros, L., **Duverger, C.**, Jomard, H., Godano, M., Courboulex, F., & Larroque, C. (**2021**). Seismic activity in the Ubaye Region (French Alps): a specific behaviour highlighted by mainshocks and swarm sequences. *Comptes Rendus. Géoscience, 353*(S1), 1-25. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A11_0/)
 
 Bollinger, L., Le Dortz, K., **Duverger, C.**, Vallage, A., Marin, S., & Leroy, Y. M. (**2021**). Seismic swarms in Tricastin, lower Rhône Valley (France): review of historical and instrumental seismicity and models. *Comptes Rendus. Géoscience, 353*(S1), 1-22. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A22_0/)
@@ -52,7 +54,9 @@ Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Her
 
 ### Posters
 
-**Duverger, C.**, Keller, M., Senfaute, G. (April **2022**). Phebus: A Full Bayesian Workflow to Estimate Earthquake Recurrence Parameters and Uncertainties for Seismic Hazard Models. **SSA** Annual meeting.
+**Duverger, C.**, Keller, M., Senfaute, G. (April **2023**). How to discriminate between area-source models for probabilistic seismic hazard assessment in a more objective manner? **EGU** General Assembly.
+
+**Duverger, C.**, Keller, M., Senfaute, G. (April **2022**). Phebus: a full Bayesian workflow to estimate earthquake recurrence parameters and uncertainties for seismic hazard models. **SSA** Annual meeting.
 
 **Duverger, C.**, Vallage, A., Bollinger, L. (April **2019**). Uncertainties on fault parameters and seismotectonic source zones for site-specific PSHA in southeastern France. **SSA** Annual meeting.
 
@@ -63,7 +67,7 @@ Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Her
 
 ### International Conferences
 
-- EGU 2020, General assembly - *Online*
+- EGU 2023, General assembly - Vienna, Austria
 - SSA 2019, Annual meeting - Seattle, USA
 - ESC 2018, 36th General assembly - Valleta, Malta
 - AGU 2016, Fall meeting - San Francisco, USA
@@ -72,6 +76,7 @@ Vallage, A., Bollinger, L., Champenois, J., **Duverger, C.**, Trilla, A. G., Her
 
 ### International Workshops or Schools
 
+- URBASIS Spring school (May 2023) - Porquerolles, France
 - Closing Symposium Sigma-2 (May 2022) - Avignon, France
 - URBASIS Spring school (May 2022) - Autrans, France
 - Workshop "Active tectonics and dating", Project Sigma-2 and RESIF (September 2021) - Praz-sur-Arly, France
