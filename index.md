@@ -15,6 +15,8 @@ My *research interests* concern:
 
 ### Publications
 
+Baques, M., De Barros, L., Godano, M., **Duverger, C.**, & Jomard, H. (**2023**). Swarms and mainshock–aftershocks sequences are both triggered by fluids in the Ubaye Region (Western Alps). Geophysical Journal International, 235(1), 920-941. [Link](https://academic.oup.com/gji/article-abstract/235/1/920/7222900)
+
 Colledge, M., Aubry, J., Chanard, K., Pétrélis, F., **Duverger, C.**, Bollinger, L., & Schubnel, A. (**2023**). Susceptibility of microseismic triggering to small sinusoidal stress perturbations at the laboratory scale. Journal of Geophysical Research: Solid Earth, 128. [Link](https://doi.org/10.1029/2022JB025583) 
 
 Baques, M., De Barros, L., **Duverger, C.**, Jomard, H., Godano, M., Courboulex, F., & Larroque, C. (**2021**). Seismic activity in the Ubaye Region (French Alps): a specific behaviour highlighted by mainshocks and swarm sequences. *Comptes Rendus. Géoscience, 353*(S1), 1-25. [Link](https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2021__353_S1_A11_0/)
